@@ -1,4 +1,5 @@
 streamlit
-sqlalchemy>=1.4,<2.0
+sqlalchemy
 pandas
+pymysql
 
